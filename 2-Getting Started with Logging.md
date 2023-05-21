@@ -8,4 +8,13 @@
 
 ![](images/3.png)
 
+## Default Logging Explained
+
+![](images/4.png)
+
+## Summary
+
+![](images/5.png)
+
+![](images/6.png)
 
